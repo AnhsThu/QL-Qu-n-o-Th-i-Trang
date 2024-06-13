@@ -1,3 +1,3 @@
-# QL-Qu-n-o-Th-i-Trang
+# QL-Quần-Áo-Thời-Trang
 
 ## Được tạo ra và chạy trên Netbeans
